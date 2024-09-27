@@ -26,7 +26,7 @@ This file contains the JavaScript code to add functionality to the stopwatch. It
 Usage<br>
 Clone the repository to your local machine.<br>
 
-git clone https://github.com/your-username/stopwatch.git<br>
+git clone https://github.com/RaziqaA/Stop_and_Watch-me.git<br>
 Navigate to the project directory.<br>
 
 
